@@ -1,4 +1,4 @@
-# Epidemology
+# Epidemiology
 
 This repository contains simulations of the dynamics of viruses spreading among a population. 
 There are various approaches and mathematical models in epidemology that have been developed in the past decades. 
